@@ -132,7 +132,7 @@ Some possible additions include:
 
 🎯 Other fun mini-games
 
-👨‍💻 Author
+👨‍💻 Author : Nabih Md. Faiyaz Islam
 
 Created as a personal learning project to practice programming and explore game development.
 
